@@ -1,3 +1,3 @@
 # Project-1-Proposal
-**#Simon**
+# Simon
 Proposal for Project 1
