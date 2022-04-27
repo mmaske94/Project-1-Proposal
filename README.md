@@ -2,7 +2,7 @@
 # Project Choice
 Simon
 # Project Description
-I will be building a Simon-like game. It is a game to test your memory. The game starts with nine differentt colored squares. As the game starts the game will flash one color. The user then will have to then click on the color that flashed. If the user is correct, then the game will flash that first color as well as a second. If the user chooses the first color and second color correctly, then it will go to three, four, five, etc... until the user cannot remember which color was next and clicks the incorrect color. The score increases by 1 everytime the user gets the sequence right. 
+I will be building a Simon-like game. It is a game to test your memory. The game starts with nine differentt colored squares. As the game starts the game will flash one color at random. The user then will have to then click on the color that flashed. If the user is correct, then the game will flash that first color as well as a second also at random. If the user chooses the first color and second color correctly, then it will go to three, four, five, etc... until the user cannot remember which color was next and clicks the incorrect color. The score increases by 1 everytime the user gets the sequence right. 
 # Wire Frames
 **Initial Landing View**
 
@@ -29,4 +29,11 @@ The user then clicked the "red" square and then the "orange" square and their sc
 
 
 ![Screen Shot 2022-04-27 at 11 55 32 AM](https://user-images.githubusercontent.com/102195543/165560563-821c9db0-da4a-451a-b53b-f3e45fc6296c.png)
+
+# User Choices
+**MVP Goals**
+-As a player, I want to see what colors flashed at random
+-As a player, I want my score to keep increasing everytime I get a sequence right
+-As a player, I want to know if the game flashes the same color twice easily
+-As a player, I would like some sort of alert that I clicked a color incorrectly
 
