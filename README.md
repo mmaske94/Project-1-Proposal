@@ -34,10 +34,13 @@ The user then clicked the "red" square and then the "orange" square and their sc
 **MVP Goals**
 
 -As a player, I want to see what colors flashed at random
-
 -As a player, I want my score to keep increasing everytime I get a sequence right
-
 -As a player, I want to know if the game flashes the same color twice easily
-
 -As a player, I would like some sort of alert that I clicked a color incorrectly
+
+**Stretch Goals**
+-As a player, I would like the squares to look engaging. Maybe 3D.
+-As a player, I would like the flash to be a color other than a boring white.
+-As a player, I would like to add sound effects
+-As a player, I would like the game getting faster. As the sequences get longer, it goes through them more quickly.
 
