@@ -42,6 +42,7 @@ The user then clicked the "red" square and then the "orange" square and their sc
 -As a player, I would like some sort of alert that I clicked a color incorrectly
 
 **Stretch Goals**
+
 -As a player, I would like the squares to look engaging. Maybe 3D.
 
 -As a player, I would like the flash to be a color other than a boring white.
